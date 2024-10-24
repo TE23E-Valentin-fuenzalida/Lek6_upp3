@@ -2,4 +2,9 @@
     display: grid;
     grid-template-columns: 1fr 4 fr;
     grid-template-rows: 15vh 25vh 50vh 40vh;
+
+    background-image: url(./img/winter_bg3.jpg);
+
+    background-size: 250%;
+    background-repeat: no-repeat;
 }
